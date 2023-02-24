@@ -1,0 +1,36 @@
+#tip-title{
+  font-size:4vw;
+  margin-bottom:0%;
+  color: black;
+  text-align: center;
+  font-family: georgia;
+}
+#title-subheader{
+  font-size:2vw;
+}
+#top-title{
+  text-transform:capitalize;
+  line-height:normal;
+  text-align:right;
+}
+#header-titles{
+  width:65%;
+  margin-left:10%;
+  text-align: left;
+  float: left;
+}
+#pic-img{
+  height:25vw;
+  width:25vw;
+  }
+#image{
+  width:200;
+  height:200
+  margin-left:5%;
+  text-align:right;
+   float: left;
+}
+th {color: blue;
+  text-align: center;
+  font-family: Georgia;
+  font-size: 24px
